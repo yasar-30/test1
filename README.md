@@ -1,4 +1,7 @@
-# test1
-this is my first day 
-<br>
-my name is yasar
+
+public class mainclass {
+public static void main(String[] args) {
+    System.out.println("hello world");
+}
+    
+}
